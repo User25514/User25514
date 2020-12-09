@@ -1,6 +1,4 @@
 ```
-> owo
-*notices you looking at my profile*
       )  (
      (   ) )
       ) ( (
