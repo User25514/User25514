@@ -1,15 +1,9 @@
-```
-      )  (
-     (   ) )
-      ) ( (
-    _______)_
- .-'---------|  
-( C|/\/\/\/\/|
- '-./\/\/\/\/|
-   '_________'
-    '-------'
-```
-[Wanna Reach Me?](https://solo.to/yen)
-### Projects: 
-1. [Cipher Program](https://github.com/User25514/Cipher)
-2. [Employee Program](https://github.com/User25514/Employee-Login)
+<p align="center">
+  <img src="https://media.giphy.com/media/ROyijmazFKRc4/giphy.gif">
+</p>
+
+<p align="center">
+      <a href="https://solo.to/Yen">Hey there!</a><br />
+      <a href="https://github.com/User25514/Cipher">1. Cipher Program</a><br />
+      <a href="https://github.com/User25514/Employee-Login">2. Employee Program</a><br />
+</p>
