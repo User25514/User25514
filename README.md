@@ -12,8 +12,18 @@
   <hr class="line">
  <p align="center">
   <p1>These are my Favourite Repos:</p1><br />
-  <p1>1. </p1><a href="https://github.com/User25514/Cipher">Cipher Program</a><br />
-  <p1>2. </p1><a href="https://github.com/User25514/Employee-Login">Employee Program</a><br />
+  <p1>1. </p1><a href="https://github.com/User25514/Cipher">Cipher Program (closed until march)</a><br />
+  <p1>2. </p1><a href="https://github.com/User25514/TwitterAutomation">Twitter Automation</a><br />
+  
+</p>
+<hr class="line">
+  <hr class="line">
+ <p align="center">
+  <p1>University Repos:</p1><br />
+  <p1>1. </p1><a href="https://github.com/User25514/GUISHOP-Pharmacy">GUI shop pharmacy application</a><br />
+  <p1>2. </p1><a href="https://github.com/User25514/Covid19-to-acedemic-degree">Covid 19 to academic degree analytics</a><br />
+  <p1>3. </p1><a href="https://github.com/User25514/Gloucestershire-Constabulary-Uni-Work"> Glos Constabulary Bike Theft Register Site</a><br />
+
 </p>
 <hr class="line">
 <p align="center">
